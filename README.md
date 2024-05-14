@@ -21,3 +21,5 @@
         git branch- see what branch you are on
         git checkout -b - switch to a new branch
         git log -history of branches
+        git branch- check your branch
+        git remote -v - list all remote repo.
